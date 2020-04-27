@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Кубики-гадалки</string>
+    <string name="textRule">Хочешь узнать кто ты из мультфильма "Головоломка"? Кубики подскажут! Игра закончится, когда ты или твой соперник наберут 100 очков</string>
+    <string name="textRoborCount">Соперник:</string>
+    <string name="textYourCount">Вы:</string>
+    <string name="YourCount">0</string>
+    <string name="RobotCount">0</string>
+    <string name="textCubes">Кубики</string>
+    <string name="textRobotPoints">0</string>
+    <string name="textYourPoints">0</string>
+    <string name="buttonThrow">Бросить кубики</string>
+    <string name="imageLoose">TODO</string>
+    <string name="textLoose">Вы - Печаль </string>
+    <string name="textWin">Вы - Радость</string>
+    <string name="todo">TODO</string>
+    <string name="buttonNewGame">Играть ещё раз</string>
+    <string name="textRaily">Вы - Райли!</string>
+</resources>
