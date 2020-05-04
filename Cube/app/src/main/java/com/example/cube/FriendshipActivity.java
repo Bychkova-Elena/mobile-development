@@ -1,6 +1,7 @@
 package com.example.cube;
 
 import android.app.Activity;
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
@@ -12,7 +13,8 @@ public class FriendshipActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_friendship);
     }
-    public void onNew(View view){
-        setContentView(R.layout.activity_main);
+    public void onNew(View view) {
+        Intent i = new Intent(this, MainActivity.class);
+        startActivity(i);
     }
 }
